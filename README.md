@@ -1,3 +1,14 @@
+#Five bullet point
+we use React
+use Nodejs
+use Express
+also use MongoDB
+This is service provider website
+
+client : https://github.com/Porgramming-Hero-web-course/b6a11-service-review-client-side-MahfuzJihad
+server: https://github.com/Porgramming-Hero-web-course/b6a11-service-review-server-side-MahfuzJihad
+Live: 
+
 # Service Review Website
 Make sure you create two private repos. One for the client side. Another for the server side.
 
